@@ -169,9 +169,11 @@ body {
 }
 
 .footer-adress {
-  font-size: 14px;
-  line-height: 1.71;
-  color: #ffffff;
+  font-style: inherit;
+}
+
+.footer-contact .physical-address.link {
+  color: var(--main-bg-color);
 }
 
 .footer-contact .link {
