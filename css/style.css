@@ -176,6 +176,7 @@ body {
 
 .footer-contact .physical-address {
   color: var(--main-bg-color);
+  text-decoration: none;
 }
 
 .footer-contact .link {
